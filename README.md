@@ -21,12 +21,14 @@ Neste readme irei dividir as informações relevantes em tópicos, os desafios p
   <LI><b>H2 Database v1.4.200:</b> Banco de dados embarcado utilizado principalmente para testes.</LI> 
   <LI><b>Lombok v1.18.8:</b> Ferramenta que tem por principal objetivo diminuir a verbosidade do código.</LI> 
   <LI><b>Gradle v4.2:</b> Ferramenta de gerenciamento de dependências e automatização de builds, utiliza o ANT e o Maven.</LI>
-  <LI><b>Postamn v7.33.1:</b> Ferramenta para teste de API's que utilizam o padrão REST.</LI>
+  <LI><b>Postman v7.33.1:</b> Ferramenta para teste de API's que utilizam o padrão REST.</LI>
   <LI><b>Intellij v2020.2.2:</b> IDE de desenvolvimento.</LI>
 </UL>
 
 <h3><b>Urls relevantes:</b></h3>
   <UL>
+<LI><b><a href='http://localhost:3000'> http://localhost:3000</a></b><br>
+      Url principal do react.
   <LI><b><a href='http://localhost:8080/students'>GET http://localhost:8080/students</a></b><br>
       Url destinada a recuperar a lista de estudantes.
   <LI><b><a href='http://localhost:8080/students/id'>GET http://localhost:8080/students/id</a></b><br>
