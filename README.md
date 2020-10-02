@@ -1,4 +1,4 @@
-<h1><b>desafio-aluno-insiders</b></h1>   
+<h1><b>desafio-aluno</b></h1>   
 Neste readme irei dividir as informações relevantes em tópicos, os desafios passados foram:
 <br>
 1 - Criar um CRUD de Aluno com as propriedades { ID, Nome, Idade }.

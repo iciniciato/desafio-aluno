@@ -1,4 +1,4 @@
-package desafio.aluno.insiders.entity;
+package desafio.aluno.entity;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

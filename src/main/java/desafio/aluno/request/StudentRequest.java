@@ -1,4 +1,4 @@
-package desafio.aluno.insiders.request;
+package desafio.aluno.request;
 
 import com.sun.istack.NotNull;
 import lombok.AllArgsConstructor;

@@ -1,6 +1,6 @@
-package desafio.aluno.insiders.repository;
+package desafio.aluno.repository;
 
-import desafio.aluno.insiders.entity.StudentEntity;
+import desafio.aluno.entity.StudentEntity;
 import org.springframework.data.repository.CrudRepository;
 
 public interface StudentRepository extends CrudRepository<StudentEntity, Long> {

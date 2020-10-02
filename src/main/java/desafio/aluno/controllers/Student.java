@@ -1,16 +1,13 @@
-package desafio.aluno.insiders.controllers;
+package desafio.aluno.controllers;
 
-import desafio.aluno.insiders.entity.StudentEntity;
-import desafio.aluno.insiders.repository.StudentRepository;
-import desafio.aluno.insiders.request.StudentRequest;
+import desafio.aluno.entity.StudentEntity;
+import desafio.aluno.repository.StudentRepository;
+import desafio.aluno.request.StudentRequest;
 import lombok.AllArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.List;
 import java.util.Optional;
 
 @RestController
